@@ -1,0 +1,4 @@
+JMH S 18 hw6.JmhRuntimeTest S 49 hw6.jmh_generated.JmhRuntimeTest_treapMap_jmhTest S 8 treapMap S 11 AverageTime E A 1 1 1 E I 1 1 E E I 1 2 E E I 1 1 I 1 1 E E E E E U 12 MILLISECONDS E E 
+JMH S 18 hw6.JmhRuntimeTest S 47 hw6.jmh_generated.JmhRuntimeTest_bstMap_jmhTest S 6 bstMap S 11 AverageTime E A 1 1 1 E I 1 1 E E I 1 2 E E I 1 1 I 1 1 E E E E E U 12 MILLISECONDS E E 
+JMH S 18 hw6.JmhRuntimeTest S 49 hw6.jmh_generated.JmhRuntimeTest_arrayMap_jmhTest S 8 arrayMap S 11 AverageTime E A 1 1 1 E I 1 1 E E I 1 2 E E I 1 1 I 1 1 E E E E E U 12 MILLISECONDS E E 
+JMH S 18 hw6.JmhRuntimeTest S 51 hw6.jmh_generated.JmhRuntimeTest_avlTreeMap_jmhTest S 10 avlTreeMap S 11 AverageTime E A 1 1 1 E I 1 1 E E I 1 2 E E I 1 1 I 1 1 E E E E E U 12 MILLISECONDS E E 
